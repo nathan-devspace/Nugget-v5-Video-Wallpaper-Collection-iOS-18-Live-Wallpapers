@@ -30,6 +30,8 @@ Nugget V5.0 is an iPhone customization tool that lets users set animated wallpap
 - **Created by**: @dootskyre
 - Animated, Adds To Collections, Dynamic, iPhone, iOS 18 Live Wallpapers for iPhone
 
+---
+
 ### Space Animated iOS Live Wallpapers
 
 ![Space Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/Space.gif)
@@ -38,6 +40,8 @@ Nugget V5.0 is an iPhone customization tool that lets users set animated wallpap
 
 - **Created by**: @_systemless
 - **Tags**: Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
 
 ### iOS 6 Revamp iOS Live Wallpapers
 
@@ -48,6 +52,8 @@ Nugget V5.0 is an iPhone customization tool that lets users set animated wallpap
 - **Created by**: @dularkian
 - Animated, Adds To Collections, iPhone, iOS 18 Live Wallpapers for iPhone
 
+---
+
 ### Minecraft Panorama iOS Live Wallpapers
 
 ![Minecraft Panorama Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/MCPanorama.gif)
@@ -56,6 +62,8 @@ Nugget V5.0 is an iPhone customization tool that lets users set animated wallpap
 
 - **Created by**: @pengubow
 - Animated, Adds To Collections, Dynamic, iPhone, iOS 18 Live Wallpapers for iPhone
+
+---
 
 ### Splatoon iOS Live Wallpapers
 
@@ -66,11 +74,155 @@ Nugget V5.0 is an iPhone customization tool that lets users set animated wallpap
 - **Created by**: @dularkian
 - Animated, Adds To Collections, iPhone, iOS 18 Live Wallpapers for iPhone
 
+---
+
 ### Sakura Tree iOS Live Wallpapers
 
 ![Sakura Tree Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/Sakura%20(1).gif)
 
 [Download Sakura Tree Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/Sakura%20(1).tendies)
+
+- **Created by**: @jam_minty
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+### Mario Galaxy iOS Live Wallpapers
+
+---
+
+![Mario Galaxy Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/galaxy%20(1).gif)
+
+[Download Mario Galaxy Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/MarioGalaxy.tendies)
+
+- **Created by**: @dootskyre
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### MarioYoshi iOS Live Wallpapers
+
+![MarioYoshi Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/MarioYoshi%20(1).gif)
+
+[Download MarioYoshi Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/MarioYoshi%20(1).tendies)
+
+- **Created by**: @jordrixx
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Tinted Cubes iOS Live Wallpapers
+
+![Tinted Cubes Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/cubes.gif)
+
+[Download Tinted Cubes Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/TintedCubes.tendies)
+
+- **Created by**: @dootskyre
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Rainbow Sprinkles iOS Live Wallpapers
+
+![Rainbow Sprinkles Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/sprinkles.gif)
+
+[Download Rainbow Sprinkles Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/RainbowSprinkles.tendies)
+
+- **Created by**: @dootskyre
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Balatro iOS Live Wallpapers
+
+![Balatro Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/balatro.gif)
+
+[Download Balatro Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/BalatroMenu.tendies)
+
+- **Created by**: @dularkian
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Boykisser iOS Live Wallpapers
+
+![Boykisser Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/boykisser.gif)
+
+[Download Boykisser Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/boykisser.tendies)
+
+- **Created by**: @ch_eese
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### iOS Backup Things Logo Live Wallpapers
+
+![iOS Backup Things Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/iOSBackupThings.gif)
+
+[Download iOS Backup Things Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/iOSBackupThings.tendies)
+
+- **Created by**: @dularkian
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Snoopy iOS Live Wallpapers
+
+![Snoopy Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/Snoopy.gif)
+
+[Download Snoopy Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/Snoopy.tendies)
+
+- **Created by**: @daredvl
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Aqua Collection iOS Live Wallpapers
+
+![Aqua Collection Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/AquaCollection.gif)
+
+[Download Aqua Collection Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/AquaCollection.tendies)
+
+- **Created by**: @dularkian
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### SpinningGear iOS Live Wallpapers
+
+![Spinning Gear Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/SpinningGear.gif)
+
+[Download SpinningGear Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/SpinningGear.tendies)
+
+- **Created by**: @applintrnl
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Rickroll + Bad Apple as Live Photos iOS Live Wallpapers
+
+<img src="https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/RickApple.png" width="300" height="533">
+
+[Download Rickroll + Bad Apple Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/RickApple.tendies)
+
+- **Created by**: @forcequitOS
+- Animated, Adds To Collections, Bundle, Video, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### Animated RGB Apple Logo iOS Live Wallpapers
+
+![RGB Apple Logo Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/AppleLogo.gif)
+
+[Download RGB Apple Logo Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/AppleLogo.tendies)
+
+- **Created by**: @jam_minty
+- Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
+
+---
+
+### iSoda: Color Swap Reminiscent of Popular Sodas iOS Live Wallpapers
+
+![iSoda Gif](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Custom/iSoda.gif)
+
+[Download iSoda Tendies](https://github.com/nathan-devspace/Nugget-v5-Video-Wallpaper-Collection-iOS-18-Live-Wallpapers/blob/main/Tendies/iSoda.tendies)
 
 - **Created by**: @jam_minty
 - Animated, Adds To Collections, iPhone, iPad, iOS 18 Live Wallpapers for iPhone
